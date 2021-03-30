@@ -4,5 +4,6 @@
 		
 	echo "Olá Brasil!"
 
+	echo "Olá olá"
 
 ?>
